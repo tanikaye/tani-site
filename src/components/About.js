@@ -16,7 +16,7 @@ function About() {
             <p>Hi. I'm Tani, nice to meet you. Please take a look around.</p>
           </div>
           <div>
-            <p>I am passionate about building excellent software that improves
+            <p>I'm passionate about building excellent software that improves
             the lives of those around me. I specialize in creating software
             for clients ranging from individuals and small-businesses all the
             way to large enterprise corporations. What would you do if you had
