@@ -16,11 +16,11 @@ function About() {
             <p>Hi. I'm Tani, nice to meet you. Please take a look around.</p>
           </div>
           <div>
-            <p>I'm passionate about building excellent software that improves
-            the lives of those around me. I specialize in creating software
-            for clients ranging from individuals and small-businesses all the
-            way to large enterprise corporations. What would you do if you had
-            a software expert available at your fingertips?</p>
+            <p>I'm passionate about learning new technologies and building exciting web applications.
+              While I'm not grinding leetCode, I'm improving my software skills and building fun apps.
+              If you are an individual or small business and would like to hire me to build your website,
+              please feel free to scroll down to the contact section and shoot me a message!
+            </p>
           </div>
         </div>
     </div>
