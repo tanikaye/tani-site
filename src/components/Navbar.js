@@ -30,8 +30,6 @@ const Navbar = () => {
       <img src={tk} alt='Logo Image' style={{ width: '190px', margin: '-36%'}} />
       </div>
 
-      {/* <img src={longBanner} alt='Logo Image' style={{ width: '60%'}} /> */}
-
       {/* menu */}
       <ul className='hidden md:flex'>
         <li>
